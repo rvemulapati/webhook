@@ -5,6 +5,4 @@ stage('Build and Test') {
 uleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: '0a05aad9-0cb8-4403-bddd-124c62fc0439', url: 'https://github.com/rvemulapati/webhook.git']]])
     echo 'Build and Test has been done'
 }
-
-    
     
